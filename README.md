@@ -1,24 +1,36 @@
 👋 Hi, I’m Douglas Seo!
-🚀 Software Engineer | Tech Lead | Problem Solver
+🚀 Founder | Software Engineer | Product Innovator
 
-I’m passionate about building scalable, high-impact applications that bridge the gap between technology and real-world solutions. With experience in frontend development, cloud architectures, and AI-driven automation, I enjoy solving complex challenges while leading projects from idea to execution.
+I specialize in building high-impact software products that drive real-world value, combining full-stack development, cloud computing, and AI-driven automation with entrepreneurial leadership. Whether it's scaling a startup, developing AI applications, or leading a team, I thrive on solving complex challenges and turning ideas into reality.
 
-💡 What I Do
-👨‍💻 Software Engineering – React/React-Native (Native & Web), TypeScript, Next.js
-📡 Backend & Cloud – Firebase, Node.js, AWS, Serverless Systems
-🗺️ Data & Mapping – Geospatial Data, Real-time Analytics, Visualization
-🤖 AI & Automation – NLP, Speech-to-Text, AI-driven Business Tools
-📈 Project & Team Management – Agile Methodologies, Product Roadmaps, Cross-functional Collaboration
-🔨 Featured Projects
-📱 Popper – Social app rewarding in-person interactions (React Native, Firebase)
-🎙️ TalkToGrandma.AI – AI-powered assistant for voice-based storytelling & documentation
-🤖 AI Lead Gen Agent – Automated outreach system for business lead generation
+💡 What I Do Best
+👨‍💻 Software Engineering – React Native, TypeScript, Node.js, Firebase
+📡 Scalable Systems – Google Cloud, AWS, Real-time Data, Serverless
+🤖 AI & Automation – Speech Recognition, NLP, AI-driven Lead Gen
+📈 Business & Growth – Product Strategy, GTM Execution, Sales & Marketing
+🚀 Leadership & Project Management – Agile, Team Building, Cross-functional Execution
+🔨 Featured Projects & Roles
+🚀 CEO & Co-Founder | Popper (2022 – Present)
+Built and scaled Popper, a social app that rewards real-life interactions and strengthens human connection through incentivized social experiences. Led full-stack development, growth marketing, and business strategy to onboard users and local businesses.
+
+Tech Stack: React Native, Firebase, Node.js, GCP
+Key Wins: Raised funding, launched in college markets, achieved first revenue
+🎙️ AI Developer | TalkToGrandma.AI (2024 – Present)
+Developing an AI-powered voice assistant that allows families to preserve stories and memories through natural conversation.
+
+Tech Stack: AI Speech Processing, NLP, React, Firebase
+🤖 AI Lead Gen System (2024 – Present)
+Building an AI-driven cold outreach system that autonomously calls businesses to collect contact details and generate leads.
+
+Tech Stack: Python, Twilio, GPT-based Speech AI
+💻 Software Engineer Intern | Chirp Microsystems (2019)
+Worked on ultrasonic sensor data analysis and developed Python automation scripts for testing and prototyping.
 
 🌱 Currently Exploring
-🔍 Scalable System Design & Performance Optimization
-🚀 AI in Business Automation & User Engagement
-📊 Data-driven Decision Making & Product Growth Strategies
-📫 Let’s Connect!
+🔍 Scaling AI in real-world applications
+📊 Data-driven growth strategies for startups
+🎯 Optimizing user engagement & retention
+
 📩 douglasseo.business@gmail.com | 💼 (https://www.linkedin.com/in/douglas-seo-337133186)
 <!---
 seoking23/seoking23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
